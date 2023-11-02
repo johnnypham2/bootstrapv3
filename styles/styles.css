@@ -1,0 +1,26 @@
+/* h1{
+    color: aqua;
+} */
+.bgRed{
+    background-color: tomato;
+}
+.bgBlue{
+    background-color: aqua;
+}
+.bgGreen{
+    background-color: greenyellow;
+}
+.bgBrown{
+    background-color: burlywood;
+}
+.outLine{
+    border: 2px solid;
+}
+.frame{
+    border: 4px solid;
+    border-radius: 20px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
